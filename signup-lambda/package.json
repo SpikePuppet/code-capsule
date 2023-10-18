@@ -1,0 +1,11 @@
+{
+  "name": "signup-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function for the code-capsule signup flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhys Johns",
+  "license": "MIT"
+}
