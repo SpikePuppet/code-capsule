@@ -89,3 +89,9 @@ body {
   border: 3px solid black;
   background-color: #c4a1ff;
 }
+
+.warn {
+  color: red;
+  font-family: "Archivo", sans-serif;
+  font-weight: 500;
+}
